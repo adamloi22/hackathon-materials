@@ -8,5 +8,5 @@ The network data set allows to analyse the interconnectivity between Wikipedia a
 
 - wiki-topcats-page-names.txt: This file links the page id's with the article name. The articles are of any nature and not limited to persons. 
 
-- wiki_topcats_x.csv: This file contains the hyperlinks from one article to another, e.g. [34 2934] means that Wikipedia article 34 contains a link to Wikipedia article 2934. The data set is split up into 15 files. 
+- wiki_topcats_x.csv: This file contains the hyperlinks from one article to another. Each instance has the following structure: [index, article ID A, article ID B]. E.g. [2, 34, 2934] means that Wikipedia article 34 contains a link to Wikipedia article 2934. The data set is split up into 15 files. 
 
