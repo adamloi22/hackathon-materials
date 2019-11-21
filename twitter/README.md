@@ -1,8 +1,8 @@
 # Twitter data
 
-## The most influencial women on Twitter
+## The most influential women on Twitter
 
-This data set contains information on the 25 most influencial women on twitter. The following features are given: 
+This data set contains information on the 25 most influential women on Twitter. The following features are given: 
 
 - Name:
 - Influence score:
@@ -23,9 +23,9 @@ This data set contains information on the 25 most influencial women on twitter. 
 
 Source: 
 
-## The most influencial women on Twitter
+## The most influential momen on Twitter
 
-This data set contains information on the 25 most influencial men on twitter. The following features are given: 
+This data set contains information on the 25 most influential men on Twitter. The following features are given: 
 
 - Name:
 - Twitter handle:
@@ -38,7 +38,7 @@ Source:
 
 ## tweets of 20 most followed users
 
-This data set contains 52543 tweets of the top 20 twitter users. The idea is that influencial people will be mentioned in tweets (of other influencial people). 
+This data set contains 52543 tweets of the top 20 Twitter users. The idea is that influential people will be mentioned in tweets (of other influential people). 
 
     katyperry,@barackobama Thank you for your incredible grace in leadership and for being an exceptional..   https://t.co/ZuQLZpt6df,,11/01/2017 08:38,8.19101E+17,en,,,3689,1380
 
