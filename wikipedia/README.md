@@ -1,6 +1,6 @@
 # Wikipedia data sets
 
-The provided Wikipedia data sets are divided in two subcategories: network analysis and  . 
+The provided Wikipedia data sets are divided in two subcategories: network analysis and pantheon. 
 
 ## Network analysis
 
@@ -10,3 +10,33 @@ The network data set allows to analyse the interconnectivity between Wikipedia a
 
 - wiki_topcats_x.csv: This file contains the hyperlinks from one article to another. Each instance has the following structure: [index, article ID A, article ID B]. E.g. [2, 34, 2934] means that Wikipedia article 34 contains a link to Wikipedia article 2934. The data set is split up into 15 files. 
 
+## Pantheon
+
+The Pantheon contains data on the most popular biographies on Wikipedia. It contains both current and historical figures, as well as information about non-english iterations of their pages. `[pantheon.tsv]`
+
+Fields:
+- id
+- name
+- numlangs
+- birthcity
+- birthstate
+- countryName
+- countryCode
+- countryCode3
+- LAT
+- LON
+- contientName
+- birthyear
+- gender
+- occupation
+- industry
+- domain
+- TotalPageViews
+- L_star
+- StdDevPageViews
+- PageViewsEnglish
+- PageViewsNonEnglish
+- AverageViews
+- historicalPopularityIndex
+
+source: https://www.nature.com/articles/sdata201575
