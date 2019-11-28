@@ -2,7 +2,7 @@
 
 ## The most influential women on Twitter
 
-This data set contains information on the 25 most influential women on Twitter. The following features are given: 
+This data set contains information on the 25 most influential women on Twitter. The following fields are given: 
 
 - Name:
 - Influence score:
@@ -23,9 +23,9 @@ This data set contains information on the 25 most influential women on Twitter. 
 
 Source: 
 
-## The most influential momen on Twitter
+## The most influential men on Twitter
 
-This data set contains information on the 25 most influential men on Twitter. The following features are given: 
+This data set contains information on the 25 most influential men on Twitter. The following fields are given: 
 
 - Name:
 - Twitter handle:
